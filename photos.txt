@@ -1,0 +1,39 @@
+<html>
+<head><title>IMAGES</title></head>
+<body>
+
+<h1 style= "text-align: center; font-size: 60px">Images</h1>
+
+<img src="nature.bmp" alt= "image" height= 350, width= 500/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<img src="building1.jpg" alt= "image" height= 350, width= 500/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<img src="188270.jpg" alt= "image" height= 350, width= 500/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<img src="nature.jpg" alt= "image" height= 350, width= 500/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<img src="screenshot.png" alt= "image" height= 350, width= 500/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<img src="park.jpg" alt= "image" height= 350, width= 500/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<img src="1831213.webp" alt= "image" height= 350, width= 500/>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<img src="Environment.jpg" alt= "image" height= 350, width= 500/>
+
+
+</body>
+</html>
